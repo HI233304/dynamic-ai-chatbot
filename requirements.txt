@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+jinja2
+python-multipart
+pydantic
+openai
+sqlite-utils
+requests
+transformers
+torch
+spacy
